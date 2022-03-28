@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T12:38:53.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="hJOmKgssQWY5Y4yWTxi7" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T03:26:32.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="c7KNUIphyUYXFuIQEoFn" version="17.1.5" type="github" pages="2">
   <diagram id="U9lFCncFoz-Ha53rjx-l" name="百年孤独">
-    <mxGraphModel dx="1139" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="mTktfkCcy3LLw9KPby7B-0" />
         <mxCell id="mTktfkCcy3LLw9KPby7B-1" parent="mTktfkCcy3LLw9KPby7B-0" />
@@ -142,35 +142,59 @@
             <mxPoint x="1600" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-0" value="费尔南达·德尔·卡皮奥" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-0" value="费尔南达·德尔·卡皮奥" style="html=1;whiteSpace=wrap;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
           <mxGeometry x="1590" y="1350" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mTktfkCcy3LLw9KPby7B-1" source="exF3m7pNEWAU_ltyDbZ6-17" target="9Ow3BRkxIOtD8EgIuYvH-0">
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mTktfkCcy3LLw9KPby7B-1" source="exF3m7pNEWAU_ltyDbZ6-17" target="9Ow3BRkxIOtD8EgIuYvH-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="1360" as="sourcePoint" />
             <mxPoint x="1760" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-2" value="&lt;span&gt;何塞·阿尔卡蒂奥&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-2" value="&lt;span&gt;何塞·阿尔卡蒂奥&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
           <mxGeometry x="1445" y="1480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-4" value="&lt;span&gt;雷纳塔·雷梅黛丝（梅梅）&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
-          <mxGeometry x="1600" y="1480" width="100" height="40" as="geometry" />
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-4" value="&lt;span&gt;阿玛兰妲·乌尔苏拉&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
+          <mxGeometry x="1600" y="1480" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.532;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mTktfkCcy3LLw9KPby7B-1" source="9Ow3BRkxIOtD8EgIuYvH-6">
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.532;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="mTktfkCcy3LLw9KPby7B-1" source="9Ow3BRkxIOtD8EgIuYvH-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1560" y="1440" as="sourcePoint" />
             <mxPoint x="1570" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+        <mxCell id="9Ow3BRkxIOtD8EgIuYvH-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
           <mxGeometry x="1490" y="1440" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpl2jkOL1Lfsa9OtN4AN-0" value="阿玛兰妲·乌尔苏拉" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+        <mxCell id="gpl2jkOL1Lfsa9OtN4AN-0" value="雷纳塔·雷梅黛丝（梅梅）" style="html=1;whiteSpace=wrap;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
           <mxGeometry x="1780" y="1480" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpl2jkOL1Lfsa9OtN4AN-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+        <mxCell id="gpl2jkOL1Lfsa9OtN4AN-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" parent="mTktfkCcy3LLw9KPby7B-1" vertex="1">
           <mxGeometry x="1660" y="1440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa5kPJjUduffBClvarA1-2" value="乌里肖·巴比伦" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+          <mxGeometry x="1950" y="1480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa5kPJjUduffBClvarA1-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mTktfkCcy3LLw9KPby7B-1" source="gpl2jkOL1Lfsa9OtN4AN-0" target="fa5kPJjUduffBClvarA1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="1380" as="sourcePoint" />
+            <mxPoint x="1870" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa5kPJjUduffBClvarA1-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="mTktfkCcy3LLw9KPby7B-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="1500" as="sourcePoint" />
+            <mxPoint x="1920" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa5kPJjUduffBClvarA1-5" value="奥雷里亚诺·巴比伦" style="html=1;whiteSpace=wrap;" vertex="1" parent="mTktfkCcy3LLw9KPby7B-1">
+          <mxGeometry x="1870" y="1560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa5kPJjUduffBClvarA1-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mTktfkCcy3LLw9KPby7B-1" source="9Ow3BRkxIOtD8EgIuYvH-4" target="fa5kPJjUduffBClvarA1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="1480" as="sourcePoint" />
+            <mxPoint x="1870" y="1430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
