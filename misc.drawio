@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T12:52:37.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="S0sx4OxZNE-FrxnL5dOE" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T03:23:07.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="kW4Ym-zEGm8qrtlLMkw7" version="22.1.2" type="github" pages="3">
   <diagram id="U9lFCncFoz-Ha53rjx-l" name="百年孤独">
     <mxGraphModel dx="1663" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -252,83 +252,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Uq0NOS5h0lK-Lg45Lw_" name="AIV appeal flow">
-    <mxGraphModel dx="1663" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fXySVpi36BYBcv7jPgOD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-2" target="fXySVpi36BYBcv7jPgOD-3">
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIkkYX4DZaxhoSxZmXih-1" target="eIkkYX4DZaxhoSxZmXih-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Can submit AIV appeal&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-1" value="AIV status failed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1810" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Submitted AIV appeal&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-12" target="fXySVpi36BYBcv7jPgOD-15">
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIkkYX4DZaxhoSxZmXih-2" target="eIkkYX4DZaxhoSxZmXih-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-17" value="Processing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fXySVpi36BYBcv7jPgOD-16">
-          <mxGeometry x="-0.265" relative="1" as="geometry">
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-2" value="Submit AIV appeal" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIkkYX4DZaxhoSxZmXih-4" target="eIkkYX4DZaxhoSxZmXih-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-10" value="Failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="eIkkYX4DZaxhoSxZmXih-7">
+          <mxGeometry x="-0.3667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-12" target="fXySVpi36BYBcv7jPgOD-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1810" y="964.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-22" value="Closed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fXySVpi36BYBcv7jPgOD-19">
-          <mxGeometry x="-0.3188" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-12" value="UCM ticket status" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="810" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-15" value="AIV appeal pending" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="815" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-21" target="fXySVpi36BYBcv7jPgOD-23">
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIkkYX4DZaxhoSxZmXih-4" target="eIkkYX4DZaxhoSxZmXih-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-25" value="Appealed failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fXySVpi36BYBcv7jPgOD-24">
-          <mxGeometry x="0.1757" y="2" relative="1" as="geometry">
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Override failed&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eIkkYX4DZaxhoSxZmXih-9">
+          <mxGeometry x="-0.3704" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-21" target="fXySVpi36BYBcv7jPgOD-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-4" value="AIV status" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-28" value="Verified" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fXySVpi36BYBcv7jPgOD-27">
-          <mxGeometry x="0.1931" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-6" value="AIV appeal pending" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fXySVpi36BYBcv7jPgOD-21" target="fXySVpi36BYBcv7jPgOD-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-31" value="Failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fXySVpi36BYBcv7jPgOD-30">
-          <mxGeometry x="-0.1241" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-21" value="AIV status" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="970" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-23" value="AIV appeal is failed" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-26" value="AIV appeal is done" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="975" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXySVpi36BYBcv7jPgOD-29" value="AIV appeal pending?" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="975" width="120" height="60" as="geometry" />
+        <mxCell id="eIkkYX4DZaxhoSxZmXih-8" value="AIV appeal failed" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
