@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T07:44:58.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="1IwKhSVor5UB9-JUp9or" version="24.4.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:42:31.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zWDQ1iPjWS1KfoYNTJXu" version="24.4.10" type="github" pages="7">
   <diagram id="U9lFCncFoz-Ha53rjx-l" name="百年孤独">
     <mxGraphModel dx="1687" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
         <mxCell id="hZREDSKmsS4wpeqSh7Um-4" value="A1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="575" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hZREDSKmsS4wpeqSh7Um-5" value="A2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="hZREDSKmsS4wpeqSh7Um-5" value="A2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="575" y="530" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZREDSKmsS4wpeqSh7Um-7" value="A3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -538,11 +538,11 @@
         <mxCell id="WqiaulFqX5vqEiA478iS-6" value="A9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="775" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WqiaulFqX5vqEiA478iS-7" value="No billing setup needed: A1, A2, A6, A5, A9, A7, A8&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="425" width="290" height="40" as="geometry" />
+        <mxCell id="WqiaulFqX5vqEiA478iS-7" value="No billing setup needed: A1, A6, A5, A9, A7, A8&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="425" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WqiaulFqX5vqEiA478iS-8" value="Billing setup needed: A3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="150" height="30" as="geometry" />
+        <mxCell id="WqiaulFqX5vqEiA478iS-8" value="Billing setup needed: A2, A3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WqiaulFqX5vqEiA478iS-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
