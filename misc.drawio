@@ -764,7 +764,7 @@
         <mxCell id="MXwroF5xAasDoQ3GPC6s-33" value="Auto redirect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1665" y="930" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MXwroF5xAasDoQ3GPC6s-36" value="All kinds of edge case and error handling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MXwroF5xAasDoQ3GPC6s-36" value="All kinds of edge cases and error handling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MXwroF5xAasDoQ3GPC6s-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
