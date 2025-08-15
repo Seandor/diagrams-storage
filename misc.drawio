@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0" pages="10">
   <diagram id="U9lFCncFoz-Ha53rjx-l" name="百年孤独">
     <mxGraphModel dx="1687" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -807,6 +807,105 @@
         </mxCell>
         <mxCell id="KjJPZubKip3V7Pl8mzCs-15" value="Click" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1725" y="520" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OiFqdlzTw0UJJd8Fhkgr" name="monthly invoice application v2">
+    <mxGraphModel dx="1415" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-1" target="UMRjgu0keiXhyIEnU8ez-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Apply for monthly invoicing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-2" target="UMRjgu0keiXhyIEnU8ez-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Apply for a new credit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-3" target="UMRjgu0keiXhyIEnU8ez-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Use an existing credit line&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UMRjgu0keiXhyIEnU8ez-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="400" as="sourcePoint" />
+            <mxPoint x="900" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Apply new step wizard&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-11" target="UMRjgu0keiXhyIEnU8ez-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-11" target="UMRjgu0keiXhyIEnU8ez-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="700" />
+              <mxPoint x="820" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-16" value="Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMRjgu0keiXhyIEnU8ez-15">
+          <mxGeometry x="0.0771" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-11" value="Submit" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Return to payment method page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-14" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="738" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-17" target="UMRjgu0keiXhyIEnU8ez-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Use existing form&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-19" target="UMRjgu0keiXhyIEnU8ez-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-23" value="Success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMRjgu0keiXhyIEnU8ez-22">
+          <mxGeometry x="-0.0571" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UMRjgu0keiXhyIEnU8ez-19" target="UMRjgu0keiXhyIEnU8ez-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="700" />
+              <mxPoint x="1020" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-25" value="Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMRjgu0keiXhyIEnU8ez-24">
+          <mxGeometry x="0.1843" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-19" value="Submit" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="890" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMRjgu0keiXhyIEnU8ez-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Return to payment method page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
